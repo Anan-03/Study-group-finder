@@ -22,8 +22,7 @@ Make sure you have installed:
 
 ## Installation Steps:
 
-1. Clone the repository:
-git clone https://github.com/Anan-03/Study-group-finder
+1. Clone the repository: git clone https://github.com/Anan-03/Study-group-finder.git
 2. Navigate to the project folder:
 cd studygroupfinder
 
