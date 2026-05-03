@@ -37,11 +37,6 @@ node server.js
 5. Open browser:
 http://localhost:3000
 
-## Demo Video: 
-
-Watch the project demo here:
-https://youtu.be/nXQfmSRAlZQ
-
 ## Features:
 
 - User Authentication (Login & Registration)
@@ -64,5 +59,3 @@ https://youtu.be/nXQfmSRAlZQ
 Uses localStorage for storing user data (demo purpose)
 Passwords are not encrypted (not for production)
 
-## Author:
-Ayaz Mahammad Aslam
