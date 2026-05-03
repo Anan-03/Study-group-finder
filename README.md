@@ -35,6 +35,10 @@ node server.js
 5. Open browser:
 http://localhost:3000
 
+**Demo Video:**
+
+Watch the project demo here: https://youtu.be/XUL9BjY61Qw
+
 ## Features:
 
 - User Authentication (Login & Registration)
